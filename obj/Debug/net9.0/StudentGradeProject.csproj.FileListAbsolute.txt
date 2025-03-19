@@ -1,0 +1,14 @@
+C:\Users\Jeremiah\repos1\StudentGradeProject\bin\Debug\net9.0\StudentGradeProject.exe
+C:\Users\Jeremiah\repos1\StudentGradeProject\bin\Debug\net9.0\StudentGradeProject.deps.json
+C:\Users\Jeremiah\repos1\StudentGradeProject\bin\Debug\net9.0\StudentGradeProject.runtimeconfig.json
+C:\Users\Jeremiah\repos1\StudentGradeProject\bin\Debug\net9.0\StudentGradeProject.dll
+C:\Users\Jeremiah\repos1\StudentGradeProject\bin\Debug\net9.0\StudentGradeProject.pdb
+C:\Users\Jeremiah\repos1\StudentGradeProject\obj\Debug\net9.0\StudentGradeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremiah\repos1\StudentGradeProject\obj\Debug\net9.0\StudentGradeProject.AssemblyInfoInputs.cache
+C:\Users\Jeremiah\repos1\StudentGradeProject\obj\Debug\net9.0\StudentGradeProject.AssemblyInfo.cs
+C:\Users\Jeremiah\repos1\StudentGradeProject\obj\Debug\net9.0\StudentGradeProject.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah\repos1\StudentGradeProject\obj\Debug\net9.0\StudentGradeProject.dll
+C:\Users\Jeremiah\repos1\StudentGradeProject\obj\Debug\net9.0\refint\StudentGradeProject.dll
+C:\Users\Jeremiah\repos1\StudentGradeProject\obj\Debug\net9.0\StudentGradeProject.pdb
+C:\Users\Jeremiah\repos1\StudentGradeProject\obj\Debug\net9.0\StudentGradeProject.genruntimeconfig.cache
+C:\Users\Jeremiah\repos1\StudentGradeProject\obj\Debug\net9.0\ref\StudentGradeProject.dll
