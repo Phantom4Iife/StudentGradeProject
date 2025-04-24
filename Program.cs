@@ -3,61 +3,6 @@ using System.Collections.Generic;
 
 namespace StudentGradeOrganizer
 {
-    // Represents a Student
-    public class Student
-    {
-        public string Name { get; set; }
-        public int ID { get; set; }
-        public List<double> Grades { get; set; } = new List<double>();
-
-        // Adds a single grade
-        public void AddGrade(double grade)
-        {
-            Grades.Add(grade);
-        }
-
-        // Adds multiple grades using params
-        public void AddGrade(params double[] grades)
-        {
-            Grades.AddRange(grades);
-        }
-
-        // Calculates average grade
-        public double CalculateAverageGrade()
-        {
-            if (Grades.Count == 0)
-                return 0;
-
-            return Grades.Average();
-        }
-    }
-    
-    public class Subject
-    {
-        public string Title { get; set; }
-        public string Code { get; set; }
-        public List<Student> Participants { get; set; }
-
-        public Subject()
-        {
-            Participants = new List<Student>();
-        }
-
-        // Registers a student into the course 
-        public void RegisterStudent(Student student)
-        {
-            if (!Participants.Exists(s => s.ID == student.ID))
-            {
-                Participants.Add(student);
-                Console.WriteLine($"Student {student.Name} has been added to {Title}.");
-            }
-            else
-            {
-                Console.WriteLine($"Student {student.Name} is already enrolled in {Title}.");
-            }
-        }
-    }
-
     // Main Program
     class Program
     {
